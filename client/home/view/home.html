@@ -1,0 +1,12 @@
+<div>
+    <div class="img-container">
+        <img src="{{home.userDetails.profile_picture}}">
+    </div>
+    <div>
+        <span>{{home.userDetails.full_name}}</span>
+    </div>
+    <div>Media : {{home.userDetails.counts.media}}</div>
+    <div>Followers : {{home.userDetails.counts.followed_by}}</div>
+    <div>Following : {{home.userDetails.counts.follows}}</div>
+    <a href="#" data-ng-click="home.showMyMedia()">Show my media</a>
+</div>

@@ -1,0 +1,23 @@
+/*
+   For login Box
+*/
+.center {
+    margin-left: auto;
+    margin-right: auto;
+   
+}
+
+.login-box {
+	margin-top: 70px;
+}
+
+.footer{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 51px;
+    background-color: #080808;
+    color: white;
+    text-align: -webkit-center;
+
+    }

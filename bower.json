@@ -1,0 +1,39 @@
+{
+    "name": "InstaApi",
+    "description": "To explore Instagram api.",
+    "main": "index.js",
+    "authors": [
+        "Ashokkumar (ak90ashok@gmail.com)"
+    ],
+    "license": "ISC",
+    "keywords": [
+        "feellinks",
+        "feelings",
+        "location"
+    ],
+    "moduleType": [],
+    "homepage": "",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ],
+    "devDependencies": {
+
+    },
+    "dependencies": {
+        "angular": "^1.5.8",
+        "bootstrap": "^3.3.7",
+        "angular-ui-router": "^0.3.1",
+        "angularAMD": "^0.2.1",
+        "ng-load": "^1.0.2",
+        "font-awesome": "^4.6.3",
+        "html5shiv": "^3.7.3",
+        "respond": "^1.4.2"
+    },
+    "resolutions": {
+        "angular": "^1.5.8"
+    }
+}
