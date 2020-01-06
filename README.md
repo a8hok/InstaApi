@@ -1,29 +1,29 @@
-#Instagram Api
+# Instagram Api using MEAN
 
-Install
+Install <br/>
 _______
 
-Nodejs
-MongoDB
+Nodejs<br/>
+MongoDB<br/>
 
-Create your account in Instagram to explore Insta Api.
+Create your account in Instagram to explore Insta Api.<br/>
 -----------------------------------------------------
-https://www.instagram.com/developer/
+https://www.instagram.com/developer/<br/>
 
-Generate your token and client Id through instagram Account
+Generate your token and client Id through instagram Account<br/>
 
-Get your token and replace with server/core/CONSTANT.js file
+Get your token and replace with server/core/CONSTANT.js file<br/>
 
-INSTA_DETAILS.URL = '******************************';
-INSTA_DETAILS.ACCESS_TOKEN = '******************************';
-INSTA_DETAILS.CLIENT_ID = '******************************';
+INSTA_DETAILS.URL = '******************************';<br/>
+INSTA_DETAILS.ACCESS_TOKEN = '******************************';<br/>
+INSTA_DETAILS.CLIENT_ID = '******************************';<br/>
 
 Clone repo:
-https://github.com/ashok-explore/InstaApi.git
+https://github.com/ashok-explore/InstaApi.git<br/>
 
-npm install
-bower install
+npm install<br/>
+bower install<br/>
 
-To launch Application
+To launch Application<br/>
 ---------------------
-node server
+node server<br/>
